@@ -1,0 +1,8 @@
+{
+    "name": "yandex-instream-types",
+    "author": "DVZ aka Majestic <mj2ks@mail.ru>",
+    "main": "",
+    "types": "yandex-instream.d.ts",
+    "typeScriptVersion": "4.4",
+    "license": "MIT"
+}
